@@ -80,10 +80,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drayber/adonis-websocket-client.git"
+    "url": "git+https://github.com/drayber/adonis-websocket-client.git"
   },
   "bugs": {
-    "url": "https://github.com/Drayber/adonis-websocket-client/issues"
+    "url": "https://github.com/drayber/adonis-websocket-client/issues"
   },
-  "homepage": "https://github.com/Drayber/adonis-websocket-client#readme"
+  "homepage": "https://github.com/drayber/adonis-websocket-client#readme"
 }
