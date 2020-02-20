@@ -1,6 +1,6 @@
 {
-  "name": "@adonisjs/websocket-client",
-  "version": "1.0.9",
+  "name": "@drayber/adonis-websocket-client",
+  "version": "1.0.0",
   "description": "Websocket client for AdonisJs",
   "main": "dist/Ws.es.js",
   "module": "dist/Ws.es.js",
@@ -71,5 +71,19 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "bin": {
+    "adonis-websocket-client": "karma.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drayber/adonis-websocket-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Drayber/adonis-websocket-client/issues"
+  },
+  "homepage": "https://github.com/Drayber/adonis-websocket-client#readme"
 }
